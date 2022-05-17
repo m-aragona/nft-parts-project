@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nft-parts-project/static/css/main.84e48b59.css",
-    "main.js": "/nft-parts-project/static/js/main.6cf7d2d1.js",
+    "main.js": "/nft-parts-project/static/js/main.3912a4c2.js",
     "static/media/black_frame.png": "/nft-parts-project/static/media/black_frame.70e66220f079374380db.png",
     "index.html": "/nft-parts-project/index.html",
     "main.84e48b59.css.map": "/nft-parts-project/static/css/main.84e48b59.css.map",
-    "main.6cf7d2d1.js.map": "/nft-parts-project/static/js/main.6cf7d2d1.js.map"
+    "main.3912a4c2.js.map": "/nft-parts-project/static/js/main.3912a4c2.js.map"
   },
   "entrypoints": [
     "static/css/main.84e48b59.css",
-    "static/js/main.6cf7d2d1.js"
+    "static/js/main.3912a4c2.js"
   ]
 }
